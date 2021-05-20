@@ -1,0 +1,6 @@
+framework module Pods_ProCICD {
+  umbrella header "Pods-ProCICD-umbrella.h"
+
+  export *
+  module * { export * }
+}
